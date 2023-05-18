@@ -1,2 +1,2 @@
-# Projektarbeit-SNG
+# Projektarbeit-Schnittger
  School IT Projekt
